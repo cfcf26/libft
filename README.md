@@ -55,3 +55,6 @@ The `Makefile` is used to compile these functions into a library, and `libft.h` 
 ## Usage
 
 To use the library, clone the repository and run `make` in the root directory. This will compile the source files into a `libft.a` library file, which can be linked to your C projects.
+
+<img width="629" alt="스크린샷 2024-03-29 오전 11 28 24" src="https://github.com/cfcf26/libft/assets/75878816/ceeba1dd-0587-4334-86d2-641f121558b3">
+
